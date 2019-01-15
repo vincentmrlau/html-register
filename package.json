@@ -1,0 +1,32 @@
+{
+  "name": "html-register",
+  "version": "1.0.0",
+  "description": "allow you require .html file directly",
+  "main": "html-register.js",
+  "files": [
+    "html-register.js"
+  ],
+  "scripts": {
+    "test": "mocha test/html-register.js",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentmrlau/html-register.git"
+  },
+  "keywords": [
+    "html",
+    "nodejs",
+    "require"
+  ],
+  "author": "vincent lau <413893093@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentmrlau/html-register/issues"
+  },
+  "homepage": "https://github.com/vincentmrlau/html-register#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
